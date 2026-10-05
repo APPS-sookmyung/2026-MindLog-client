@@ -24,7 +24,7 @@ class NudgeCard extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           SvgPicture.asset(
-            'assets/icons/nudge_icon.svg',
+            'assets/images/CH_nudge.svg',
             width: 46,
             height: 46,
           ),

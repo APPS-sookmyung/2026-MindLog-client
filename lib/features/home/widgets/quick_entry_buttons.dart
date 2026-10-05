@@ -28,7 +28,7 @@ class QuickEntryButtons extends StatelessWidget {
               Expanded(
                 child: _QuickEntryCard(
                   backgroundColor: Color(0xFFFED9C4),
-                  iconPath: 'assets/icons/before_icon.svg',
+                  iconPath: 'assets/images/CH_before.svg',
                   title: 'Before',
                   description: '상황 전 불안을 기록해요',
                 ),
@@ -39,7 +39,7 @@ class QuickEntryButtons extends StatelessWidget {
               Expanded(
                 child: _QuickEntryCard(
                   backgroundColor: Color(0xFFDBD3FE),
-                  iconPath: 'assets/icons/after_icon.svg',
+                  iconPath: 'assets/images/CH_after.svg',
                   title: 'After',
                   description: '상황 후 결과를 기록해요',
                 ),
